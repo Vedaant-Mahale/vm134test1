@@ -14,7 +14,7 @@ int prime(int num)
     }
     return 1;
 }
-int primesum(int num)
+int primesum(int num) 
 {
     int icheck;
     int jcheck;
